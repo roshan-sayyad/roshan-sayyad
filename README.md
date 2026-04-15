@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan-sayyad&show_icons=true)
 
 ---
 
